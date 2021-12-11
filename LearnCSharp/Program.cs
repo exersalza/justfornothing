@@ -1,5 +1,3 @@
-﻿using System;
-
 namespace LearnCSharp
 {
     internal class Program
