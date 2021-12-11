@@ -2,7 +2,7 @@
 
 namespace LearnCSharp.Chapter1
 {
-    internal class Program
+    internal class Var
     {
         public static void VarAndConst(string[] args)
         {
